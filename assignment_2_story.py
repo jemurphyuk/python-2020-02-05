@@ -26,4 +26,4 @@ if hero_gender.lower() == 'male':
 elif hero_gender.lower() == 'female':
     print(dictionary_hero, hero_story['end'], ': Woman vs. The World')
 else:
-    print(dictionary_hero, hero_story['end'], ': Gender Neutral Being Against Society')
+    print(dictionary_hero, hero_story['end'], ': Gender Neutral Being vs. Society')
